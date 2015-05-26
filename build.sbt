@@ -1,7 +1,6 @@
 name := "metrics_storm"
 
-// Remove -SNAPSHOT from the version before publishing a release. Don't forget to change the version toI
-// $(NEXT_VERSION)-SNAPSHOT afterwards!
+organization := "metrics_storm"
 version := "0.0.9-klout"
 
 scalaVersion := "2.10.4"
